@@ -1,0 +1,45 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.menu-bar
+{
+    min-height: 8%; 
+    background: #FF9800;
+}
+.menu-bar img
+{
+    width:85px;
+}
+.nav-link
+{
+    color:#fff;
+}
+.nav-link:hover
+{
+    color: #000;
+}
+.active
+{
+    color: #000 !important;
+}
+.navbar-toggler .fa
+{
+    color: #fff
+}
+.navbar-toggler 
+{
+    outline: none !important;
+}
+.banner
+{
+    min-height: 77%;
+    color:black;
+}
+.banner img
+{
+    width:50%
+}
+
